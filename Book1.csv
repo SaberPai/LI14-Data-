@@ -1,7 +1,5 @@
-﻿;;;;;;;;;;;;;;;;;;;;;
-Tackles;;;;;Challenges;;;;Blocks;;;;;;;;;;;;
-Player;Nation;Pos;Age;90s;Tkl;TklW;Def 3rd;Mid 3rd;Att 3rd;Tkl;Att;Tkl%;Lost;Blocks;Sh;Pass;Int;Tkl+Int;Clr;Err;Matches
-Dominik Szoboszlai;hu HUN;MF,DF;25-003;9.0;21;15;14;4;3;16;26;61.5;10;8;3;5;6;27;27;1;Matches
+﻿Player;Nation;Pos;Age;90s;Tkl;TklW;Def 3rd;Mid 3rd;Att 3rd;Tkl;Att;Tkl%;Lost;Blocks;Sh;Pass;Int;Tkl+Int;Clr;Err;
+Dominik Szoboszlai;hu HUN;MF,DF;25-003;9.0;21;15;14;4;3;16;26;61.5;10;8;3;5;6;27;27;1;
 Virgil van Dijk;nl NED;DF;34-112;9.0;6;4;4;1;1;2;3;66.7;1;10;7;3;10;16;87;1;Matches
 Mohamed Salah;eg EGY;FW;33-135;8.9;0;0;0;0;0;0;1;0.0;1;3;1;2;1;1;3;0;Matches
 Ibrahima Konaté;fr FRA;DF;26-156;8.2;17;10;9;6;2;10;13;76.9;3;7;5;2;6;23;52;2;Matches
@@ -23,5 +21,7 @@ Wataru Endo;jp JPN;MF,DF;32-261;0.4;3;1;0;1;2;1;2;50.0;1;1;0;1;0;3;3;0;Matches
 Joe Gomez;eng ENG;DF;28-158;0.4;0;0;0;0;0;0;0;;0;0;0;0;0;0;8;0;Matches
 Rio Ngumoha;eng ENG;FW,MF;17-060;0.4;1;1;1;0;0;0;1;0.0;1;0;0;0;0;1;0;0;Matches
 Harvey Elliott;eng ENG;MF,FW;22-207;0.0;0;0;0;0;0;0;0;;0;0;0;0;0;0;0;0;Matches
-Squad Total;;;26.9;9.0;125;80;64;41;20;64;120;53.3;56;87;24;63;60;185;295;9;
-Opponent Total;;;26.8;9.0;155;93;81;56;18;78;141;55.3;63;98;41;57;97;252;;;
+Squad Total;;;26.9;9.0;125;80;64;41;20;64;120;53.3;56;87;24;63;60;185;295;9;Matches
+Opponent Total;;;26.8;9.0;155;93;81;56;18;78;141;55.3;63;98;41;57;97;252;;;Matches
+;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
